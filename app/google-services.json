@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "242989895701",
+    "project_id": "weathertoday-20e98",
+    "storage_bucket": "weathertoday-20e98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242989895701:android:869de57946786555fd3e1c",
+        "android_client_info": {
+          "package_name": "com.tripathiaayush.weathertoday"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "242989895701-fd70hcn30gu5a6o456rbbmleir8c0n7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEafueYlEygMn4gkWbLds65UHgqpAEX3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "242989895701-fd70hcn30gu5a6o456rbbmleir8c0n7p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
